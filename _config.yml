@@ -7,8 +7,8 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "zh-CN"
-title                    : "Jiawei He"
+locale                   : "en-US"
+title                    : "Jiawei He's Homepage"
 title_separator          : "-"
 name                     : &name "Jiawei He"
 description              : &description "Undergraduate Student in Data Science and Big Data Technology at SWUFE"
@@ -27,7 +27,7 @@ author:
   bio              : "Undergraduate Student in Data Science and Big Data Technology at SWUFE, interested in NLP, Deep Learning and LLMs"
   location         : "Chengdu, China"
   employer         : "SWUFE"
-  uri              : "https://hepisces.github.io/JiaweiHe.github.io/"
+  # uri              : "https://hepisces.github.io/JiaweiHe.github.io/"
   email            : "hepisces@qq.com" 
 
   # Academic websites
