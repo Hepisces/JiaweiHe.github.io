@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Jiawei He"
-  pronouns         : "He/Him"  
-  bio              : "Undergraduate Student in Data Science and Big Data Technology at SWUFE, interested in NLP, Deep Learning and LLMs"
+  # pronouns         : "He/Him"  
+  bio              : "We can be better ourselves"
   location         : "Chengdu, China"
   employer         : "SWUFE"
   # uri              : "https://hepisces.github.io/JiaweiHe.github.io/"
