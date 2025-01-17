@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "zh-CN"
 title                    : "Jiawei He"
 title_separator          : "-"
 name                     : &name "Jiawei He"
@@ -20,7 +20,7 @@ repository               : "Hepisces/hepisces.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-#   # Biographic information
+  # Biographic information
 #   avatar           : "profile.png"
 #   name             : "Jiawei He"
 #   pronouns         : "He/Him"  
