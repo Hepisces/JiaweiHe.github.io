@@ -12,7 +12,7 @@ title                    : "Jiawei He"
 title_separator          : "-"
 name                     : &name "Jiawei He"
 description              : &description "Undergraduate Student in Data Science and Big Data Technology at SWUFE"
-url                      : https://hepisces.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://hepisces.github.io/JiaweiHe.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Hepisces/hepisces.github.io"
 
@@ -21,14 +21,14 @@ repository               : "Hepisces/hepisces.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-#   avatar           : "profile.png"
-#   name             : "Jiawei He"
-#   pronouns         : "He/Him"  
+  avatar           : "profile.png"
+  name             : "Jiawei He"
+  # pronouns         : "He/Him"  
 #   bio              : "Undergraduate Student in Data Science and Big Data Technology at SWUFE, interested in NLP, Deep Learning and LLMs"
-#   location         : "Chengdu, China"
-#   employer         : "SWUFE"
-#   uri              : "https://hepisces.github.io"
-#   email            : "hepisces@qq.com" 
+  location         : "Chengdu, China"
+  employer         : "SWUFE"
+  uri              : "https://hepisces.github.io/JiaweiHe.github.io/"
+  email            : "hepisces@qq.com" 
 
   # Academic websites
   # arxiv            : # URL - Update with the correct link to your profile
