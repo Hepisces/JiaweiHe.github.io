@@ -1,0 +1,13 @@
+{% assign pub_groups = "conferences,journals,workshops" | split: "," %}
+{% assign pub_titles = "Conference Papers,Journal Articles,Workshop Papers" | split: "," %}
+{% for group in pub_groups %}
+{% assign group_pubs = site.publications | where: "category", group | sort: "date" | reverse %}
+{% if group_pubs.size > 0 %}
+<h3 class="publication-group-title">{{ pub_titles[forloop.index0] }}</h3>
+<ol class="publication-list">
+{% for post in group_pubs %}
+<li>{{ post.citation }}</li>
+{% endfor %}
+</ol>
+{% endif %}
+{% endfor %}

@@ -22,11 +22,7 @@ I am currently a master's student in Computer Science and Technology at the Inst
 
 ## Publications
 
-<ol class="publication-list">
-{% for post in site.publications reversed %}
-  <li>{{ post.citation }}</li>
-{% endfor %}
-</ol>
+{% include publication-list.html %}
 
 ## Technical Skills
 

@@ -6,9 +6,4 @@ author_profile: true
 ---
 
 {% include base_path %}
-
-<ol class="publication-list">
-  {% for post in site.publications reversed %}
-    <li>{{ post.citation }}</li>
-  {% endfor %}
-</ol>
+{% include publication-list.html %}
