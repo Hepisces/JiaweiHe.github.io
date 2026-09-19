@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Jiawei He's Homepage"
 title_separator          : "-"
 name                     : &name "Jiawei He"
-description              : &description "Undergraduate Student in Data Science and Big Data Technology at SWUFE"
+description              : &description "Master's student in Computer Science and Technology at ICT, CAS"
 url                      : https://hepisces.github.io/JiaweiHe.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Hepisces/hepisces.github.io"
@@ -25,16 +25,16 @@ author:
   name             : "Jiawei He"
   # pronouns         : "He/Him"  
   bio              : "We can be better ourselves"
-  location         : "Chengdu, China"
-  employer         : "SWUFE"
+  location         : "Beijing, China"
+  employer         : "ICT, CAS"
   # uri              : "https://hepisces.github.io/JiaweiHe.github.io/"
-  email            : "hepisces@qq.com" 
+  email            : "hejiawei26@mails.ucas.ac.cn" 
 
   # Academic websites
   # arxiv            : # URL - Update with the correct link to your profile
   # googlescholar    : # URL
   # impactstory      : # URL
-  # orcid            : # URL
+  orcid            : "https://orcid.org/0009-0003-3284-1082"
   # semantic         : # URL
   # pubmed           : # URL
   # researchgate     : # URL
@@ -218,7 +218,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
     output: true
